@@ -8,3 +8,5 @@ Afte training, the model and the video of the learned model are saved in the sam
 <p align="center">
     <img width="460" height="300" src="gif.gif">
 </p>
+
+Collaborated with Chetan Tutika, Adarsh Modi, Sushruth Pradeep
